@@ -1,2 +1,3 @@
 # Bank-Management-System
-Bank system for accounts and transactions
+Bank System in C++
+Creating Bank accounts and handling transactions like deposit and withdrawal 
